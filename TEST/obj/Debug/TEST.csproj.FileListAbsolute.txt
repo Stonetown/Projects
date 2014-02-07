@@ -1,0 +1,13 @@
+C:\Users\henrik.PVF2006\Documents\TEST\TEST\bin\Debug\TEST.dll
+C:\Users\henrik.PVF2006\Documents\TEST\TEST\bin\Debug\TEST.pdb
+C:\Users\henrik.PVF2006\Documents\TEST\TEST\bin\Debug\TEST.dll.mdb
+C:\Users\henrik.PVF2006\Documents\TEST\TEST\bin\Debug\TEST.TEST.apk
+C:\Users\henrik.PVF2006\Documents\TEST\TEST\bin\Debug\TEST.TEST-Signed.apk
+C:\Users\henrik.PVF2006\Documents\TEST\TEST\obj\Debug\TEST.dll
+C:\Users\henrik.PVF2006\Documents\TEST\TEST\obj\Debug\TEST.pdb
+C:\Users\henrik.PVF2006\Documents\TEST\TEST\obj\Debug\android\bin\TEST.TEST.apk
+C:\Users\henrik.PVF2006\Documents\TEST\TEST\obj\Debug\res\layout\main.xml
+C:\Users\henrik.PVF2006\Documents\TEST\TEST\obj\Debug\res\values\strings.xml
+C:\Users\henrik.PVF2006\Documents\TEST\TEST\obj\Debug\res\drawable\icon.png
+C:\Users\henrik.PVF2006\Documents\TEST\TEST\obj\Debug\R.cs.flag
+C:\Users\henrik.PVF2006\Documents\TEST\TEST\obj\Debug\uploadflags.txt
